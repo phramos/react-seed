@@ -1,0 +1,26 @@
+{
+  "name": "react-seed",
+  "version": "1.0.0",
+  "description": "seed for react projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phramos/react-seed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phramos/react-seed/issues"
+  },
+  "homepage": "https://github.com/phramos/react-seed#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.16.0",
+    "babelify": "^7.3.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "watchify": "^3.7.0"
+  }
+}
