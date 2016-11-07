@@ -25,7 +25,7 @@ var ListManager = React.createClass({
     render: function () {
 
         var divStyle = {
-            "margin-top": "10"
+            "marginTop": "10px"
         };
 
         var headingStyle = {
